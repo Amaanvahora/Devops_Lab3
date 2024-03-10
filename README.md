@@ -1,3 +1,4 @@
-Devpos Lab-3
-Name Amaan Vahora
-Student Id 101492067
+# DevOps Lab-3
+
+- **Name**: Amaan Vahora
+- **Student Id**: 101492067
